@@ -27,9 +27,7 @@ On some Linux workstations, you will need to install the Tkinter windowing packa
 
 On Arch Linux and Arch derivates
 
-    ```
-    sudo pacman -Syu tk
-    ```
+    ```sudo pacman -Syu tk```
 
 ## Installation
 
