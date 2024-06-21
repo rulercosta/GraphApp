@@ -2,6 +2,8 @@
 
 GraphApp is a Python application that allows users to graph data from Excel or CSV files using a simple graphical interface. This application uses `Tkinter` for the GUI and `Matplotlib` for plotting graphs.
 
+![GraphApp](GraphApp.jpg)
+
 ## Features
 
 - Load data from Excel (`.xlsx`, `.xls`) and CSV (`.csv`) files.
