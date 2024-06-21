@@ -26,6 +26,7 @@ GraphApp is a Python application that allows users to graph data from Excel or C
 On some Linux workstations, you will need to install the Tkinter windowing package, system-wide using your built-in package manager.
 
 On Arch Linux and Arch derivates
+
     ```
     sudo pacman -Syu tk
     ```
